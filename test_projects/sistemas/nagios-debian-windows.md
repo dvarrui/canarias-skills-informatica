@@ -1,6 +1,6 @@
 ```
-(Actividad realizada en los cursos: 201314, 201415, 201516)
-Mejorada para el curso 201516.
+Propuesto por   : IES Puerto de la Cruz
+Tiempo estimado : 8 horas
 ```
 
 #1. Preparativos
