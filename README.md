@@ -1,6 +1,6 @@
 # canariaskill-informatica
 
-Documentos CanariasSkill de Informática 2016
+Documentos CanariasSkill de Informática 2017
 
 #Calendario CanariasSkill-Informática
 
@@ -9,7 +9,7 @@ Documentos CanariasSkill de Informática 2016
 | Junio/Septiembre 2016 | Elaborar la documentación para CanariasSkill | Tiburcio, Yánez, David |
 | Octubre 2016    | Presentar la documentación/procedimientos del proceso | Coordinación de la familia |
 | Noviembre 2016  | Presentar alumnos candidatos y tutor/es | Cada Centro |
-|                 | Presentar propuestas para las pruebas/proyectos | Cada Centro participante |
+|                 | Presentar propuestas para los `test projects` | Cada Centro participante |
 |                 | Presentar profesores jueces | Cada Centro participante |
 | Diciembre 2016  | Cierre de la aceptación de pruebas y candidatos | Coordinación de la familia |
 | Enero 2017      | Se establece fecha y sede para las pruebas | Coordinación de la familia |
@@ -19,5 +19,7 @@ Documentos CanariasSkill de Informática 2016
 
 * Normas para la aceptación de alumnos y tutores
 * Normas para las pruebas/proyecto
+    * 3 modelos de `test projects` para la modalidad de `Sistemas y redes`
+    * 3 modelos de `test projects` para la modalidad de `Desarrollo Web`    
 * Normas para la sede de la prueba
 * Normas durante la competición para alumnos, tutores, jueces y sede.
