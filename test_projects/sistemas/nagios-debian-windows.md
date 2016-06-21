@@ -8,7 +8,6 @@ Tiempo estimado : 8 horas
 ##1.1 Preparar las máquinas
 
 Para esta actividad vamos a necesitar 3 MV's:
-* Consultar las [configuraciones](../../global/configuracion-aula109.md) de las MV's.
 * (MV1) Monitorizador
     * SO Debian 8 - GNU/Linux
     * IP estática 172.19.XX.41
@@ -24,7 +23,7 @@ Para esta actividad vamos a necesitar 3 MV's:
 
 > Veamos una imagen de ejemplo:
 >
-> ![etc-hosts](./images/nagios3-etc-hosts.png)
+> ![etc-hosts](./files/nagios3-etc-hosts.png)
 
 ##1.2 Consultar la documentación
 
@@ -42,7 +41,7 @@ Para esta actividad vamos a necesitar 3 MV's:
 * Durante la instalación se pedirá la clave del usuario `nagiosadmin` (Administrador Nagios). 
 Además se instalará un servidor web.
 
-![nagios3-password.png](./images/nagios3-password.png)
+![nagios3-password.png](./files/nagios3-password.png)
 
 * Comprobar que Nagios se está ejecutando.
     * Comprobación `service nagios3 status`
@@ -200,7 +199,7 @@ Aquí vemos un ejemplo del estado de los "servicios internos" monitorizados,
 en el host "localhost". Con la instalación de los "agentes", 
 podremos tener esta información desde los clientes remotos.
 
-![nagios3-details](./images/nagios3-details.png)
+![nagios3-details](./files/nagios3-details.png)
 
 Enlaces de interés:
 * [install-nagios-nrpe-client-and-plugins-in-ubuntudebian](https://viewsby.wordpress.com/2013/02/14/install-nagios-nrpe-client-and-plugins-in-ubuntudebian/)
@@ -460,141 +459,3 @@ if 5 restarts within 5 cycles then timeout
     * Escribir nombreusuario/claveusuario de monit (Según hayamos configurado en monitrc).
 * Capturar pantalla.
 
-
-#ANEXO
-
-##A.1 Agente Windows
-
-Configuración del servidor para acceder usando comandos check_nt al agente Windows:
-
-```
-define service{
-  use                 generic-service
-  host_name           client1-windows
-  service_description Disk Space
-  check_command       check_nt!USEDDISKSPACE!-l c -w 80 -c 90
-}
-
-define service{
-  use                 generic-service
-  host_name           client1-windows
-  service_description Mem Use
-  check_command       check_nt!MEMUSE!-w 80 -c 90
-}
-
-define service{
-  use                 generic-service
-  host_name           client1-windows
-  service_description Proc State Explorer
-  check_command       check_nt!PROCSTATE!-d SHOWALL -l Explorer.exe
-}
-
-define service{
-  use                 generic-service
-  host_name           client1-windows
-  service_description NSClient++ Version
-  check_command       check_nt!CLIENTVERSION
-}
-
-define service{
-  use                 generic-service
-  host_name           client1-windows
-  service_description Uptime
-  check_command       check_nt!UPTIME
-}
-```
-
-##A.2 Para revisar
-
-```
-define host{
-host_name winserver
-alias Windows XP del profesor
-address 172.16.108.250
-check_command check-host-alive
-check_interval 5
-retry_interval 1
-max_check_attempts 1
-check_period 24x7
-hostgroups aula108
-icon_image cook/windows_pc.png
-statusmap_image cook/windows_pc.png
-}
-
-
-define service{
-use generic-service
-host_name winserver
-service_description CPU Load
-check_command check_nt!CPULOAD!-l 5,80,90
-}
-
-define service{
-use generic-service
-host_name winserver
-service_description Memory Usage
-check_command check_nt!MEMUSE!-w 80 -c 90
-}
-
-define service{
-use generic-service
-host_name winserver
-service_description C:\ Drive Space
-check_command check_nt!USEDDISKSPACE!-l c -w 80 -c 90
-}
-
-define service{
-use generic-service
-host_name winserver
-service_description W3SVC
-check_command check_nt!SERVICESTATE!-d SHOWALL -l W3SVC
-}
-
-define service{
-use generic-service
-host_name winserver
-service_description Explorer
-check_command check_nt!PROCSTATE!-d SHOWALL -l Explorer.exe
-}
-
-
-##A.3 Configuraciones de ejemplo
-
-```
-define host{
-host_name leela
-alias Servidor LEELA
-address 192.168.1.3
-check_command check-host-alive
-check_interval 5
-retry_interval 1
-max_check_attempts 1
-check_period 24x7
-process_perf_data 0
-retain_nonstatus_information 0
-hostgroups servers, http-servers, ssh-servers
-contact_groups admins
-notification_interval 30
-notification_period 24x7
-notification_options d,u,r
-icon_image cook/server.png
-statusmap_image cook/server.png
-parents fry
-}
-
-    #Define router
-    define host{
-    host_name router
-    alias Router1
-    address 192.168.1.1
-    check_command check-host-alive
-    check_interval 5
-    retry_interval 1
-    max_check_attempts 1
-    check_period 24x7
-    contact_groups admins
-    icon_image cook/server.png
-    statusmap_image cook/server.png
-    parents fry
-    }
-```
