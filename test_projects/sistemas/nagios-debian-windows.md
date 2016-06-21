@@ -1,6 +1,7 @@
 ```
 Propuesto por   : IES Puerto de la Cruz
 Tiempo estimado : 8 horas
+Estado          : EN DESARROLLO
 ```
 
 #1. Preparativos
