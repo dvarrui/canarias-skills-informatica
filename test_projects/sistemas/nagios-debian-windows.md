@@ -202,11 +202,6 @@ podremos tener esta información desde los clientes remotos.
 
 ![nagios3-details](./files/nagios3-details.png)
 
-Enlaces de interés:
-* [install-nagios-nrpe-client-and-plugins-in-ubuntudebian](https://viewsby.wordpress.com/2013/02/14/install-nagios-nrpe-client-and-plugins-in-ubuntudebian/)
-* [instalacion-de-nagios-como-cliente-en-windows-y-linux](http://www.nettix.com.pe/documentacion/administracion/114-instalacion-de-nagios-como-cliente-en-windows-y-linux)
-* [monitoring-linux](http://nagios.sourceforge.net/docs/3_0/monitoring-linux.html)
-
 
 ##5.2 Instalar y configurar el cliente1
 
