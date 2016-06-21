@@ -4,8 +4,8 @@ Documentos CanariasSkill de Informática 2016
 
 #Calendario CanariasSkill-Informática
 
-| Fecha           | Acción  | Responsable/s |
-| --------------: | :------ | ------------: | 
+| Fecha           | Acción | Responsable/s |
+| --------------: | :----: | :-----------: | 
 | Junio - Septiembre 2016 | Elaborar la documentación para CanariasSkill | Tiburcio, Yánez, David |
 | Octubre 2016    | Presentar la documentación/procedimientos del proceso | Coordinación de la familia |
 | Noviembre 2016  | Presentar alumnos candidatos y tutor/es | Cada Centro |
