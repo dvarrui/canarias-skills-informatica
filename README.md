@@ -20,7 +20,8 @@ Documentos CanariasSkill de Informática 2017
 * Normas para la aceptación de alumnos y tutores
 * Normas para las pruebas/proyecto
     * Modelo/plantilla para los `test projects`
-    * 3 modelos de [test projects para la modalidad de Sistemas y redes](./test_projects/sistemas)
+    * 3 modelos de [test projects para la modalidad de Sistemas y redes](./test_projects/sistemas_y_redes)
     * 3 modelos de [test projects para la modalidad de Desarrollo Web](./test_projects/desarrollo_web)   
+    * 3 modelos de [test projects para la modalidad de Ofimática y Redes](./test_projects/ofimatica_y_redes)   
 * Normas para la sede de la prueba
 * Normas durante la competición para alumnos, tutores, jueces y sede.
