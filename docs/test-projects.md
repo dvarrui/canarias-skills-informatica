@@ -37,7 +37,7 @@ modalidad correspondiente.
     objetivo no es finalizar toda la prueba sino demostrar las habilidades en el
     tiempo disponible.
 
-##Requisitos técnicos
+##Requisitos técnicos míninos para la prueba
 
 * Las pruebas se deben poder ejecutar en máquinas virtuales (VirtualBox).
 * El software/material necesario para realizar las pruebas no puede ser específico
@@ -47,6 +47,15 @@ de un centro. Debe ser material que cualquier centro pueda disponer de él. Ejem
     disponen de un tiempo de evaluación y/o pruebas de 90 y 180 días respectivamente.
     Suficiente para la realización de las pruebas. Al vencimiento de dicho plazo
     las máquinas virtuales deben eliminarse.
+
+##Provisión de recursos y limitaciones
+* Los jueces deben asegurarse de que los requisitos software/material estén
+en el centro sede el día de las pruebas.
+* El centro sede debe encargarse de que haya 1 PC por alumno con el sistema de
+virtualización VirtualBox. Todos los PC's deben tener las mismas características.
+* No se permitirá acceso a Internet a los alumnos durante las pruebas.
+* Tampoco que estos traigan material del exterior. Todos el material necesario
+deberá ser aportado por los jueces.
 
 ##Calificación
 

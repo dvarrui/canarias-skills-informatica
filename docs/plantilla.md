@@ -7,6 +7,7 @@
     * Tiempo estimado : X horas
 1. Software/Materiales
     * Indicar las necesidades de software/material para la prueba.
-    * Dichos requisitos deben estar en el centro sede el día de las pruebas.
+    * Los jueces deben encargarse de que dichos requisitos estén en el centro
+    sede el día de las pruebas.
 1. Descripción de la prueba
 1. Información sobre las puntuaciones de cada apartado.
