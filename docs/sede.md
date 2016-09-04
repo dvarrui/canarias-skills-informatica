@@ -14,7 +14,6 @@ virtualización VirtualBox. Todos los PC's deben tener las mismas característic
 * No se permitirá acceso a Internet a los alumnos durante las pruebas.
 * Tampoco que estos traigan material del exterior. Todos el material necesario
 deberá ser aportado por los jueces.
-
 * Los jueces deben asegurarse de que los requisitos software/material estén
 en el centro sede el día de las pruebas.
 * El centro sede tendrá disponible el software necesario según le especifiquen
