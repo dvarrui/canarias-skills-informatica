@@ -15,15 +15,15 @@ Documentos CanariasSkill de Informática 2017
 | Enero 2017      | Se establece fecha y sede para las pruebas | Coordinación de la familia |
 | Febrero 2017    | Se realizan las pruebas | Todos los participantes |
 
-#TO-DO list
+#Documentación
 
 * Normas para los [test projects](./docs/test-projects.md)
 * Ejemplos de `test projects`
-    * [Modalidad de Sistemas y redes](./test-projects/sistemas-y-redes)
     * [Modalidad de Desarrollo Web](./test-projects/desarrollo-web)   
     * [Modalidad de Ofimática y Redes](./test-projects/ofimatica-y-redes)   
+    * [Modalidad de Sistemas y redes](./test-projects/sistemas-y-redes)
 * Normas para la aceptación de alumnos y tutores
-* Normas para la sede de la prueba
+* Normas para la [sede](.docs/sede.md) de la prueba
 * Normas durante la competición para alumnos, tutores, jueces y sede.
 
 #Más información
