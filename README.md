@@ -18,10 +18,10 @@ Documentos CanariasSkill de Informática 2017
 #TO-DO list
 
 * Normas para los [test projects](./docs/test-projects.md)
-    * Modelo/plantilla para los `test projects`
-    * 3 modelos de [test projects para la modalidad de Sistemas y redes](./test-projects/sistemas-y-redes)
-    * 3 modelos de [test projects para la modalidad de Desarrollo Web](./test-projects/desarrollo-web)   
-    * 3 modelos de [test projects para la modalidad de Ofimática y Redes](./test-projects/ofimatica-y-redes)   
+* Ejemplos de `test projects`
+    * [Modalidad de Sistemas y redes](./test-projects/sistemas-y-redes)
+    * [Modalidad de Desarrollo Web](./test-projects/desarrollo-web)   
+    * [Modalidad de Ofimática y Redes](./test-projects/ofimatica-y-redes)   
 * Normas para la aceptación de alumnos y tutores
 * Normas para la sede de la prueba
 * Normas durante la competición para alumnos, tutores, jueces y sede.
