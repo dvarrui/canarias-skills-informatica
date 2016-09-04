@@ -1,13 +1,10 @@
 
 #Plantilla básica para los Test projects
 
-
-```
-Modalidad       : Ofimática/Web/Sistemas
-Elaborado por   : Nombre del autor/centro
-Tiempo estimado : X horas
-```
-
+1. Datos
+    * Modalidad       : Ofimática/Web/Sistemas
+    * Elaborado por   : Nombre del autor/centro
+    * Tiempo estimado : X horas
 1. Software/Materiales
     * Indicar las necesidades de software/material para la prueba.
     * Dichos requisitos deben estar en el centro sede el día de las pruebas.
