@@ -17,7 +17,7 @@ Documentos CanariasSkill de Informática 2017
 
 #Documentación
 
-* [Test Projects](./docs/test-projects.md): definición y requisitos
+* [Test Projects](./docs/test-projects.md): definición, requisitos y limitaciones
 * Ejemplos de `test projects`
     * [Modalidad de Desarrollo Web](./test-projects/desarrollo-web)   
     * [Modalidad de Ofimática y Redes](./test-projects/ofimatica-y-redes)   
