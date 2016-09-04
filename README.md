@@ -17,7 +17,7 @@ Documentos CanariasSkill de Informática 2017
 
 #TO-DO list
 
-* Normas para los [`test projects`](./docs/test-projects.md)
+* Normas para los [test projects](./docs/test-projects.md)
     * Modelo/plantilla para los `test projects`
     * 3 modelos de [test projects para la modalidad de Sistemas y redes](./test-projects/sistemas-y-redes)
     * 3 modelos de [test projects para la modalidad de Desarrollo Web](./test-projects/desarrollo-web)   
