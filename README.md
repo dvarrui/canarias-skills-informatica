@@ -23,7 +23,7 @@ Documentos CanariasSkill de Informática 2017
     * [Modalidad de Ofimática y Redes](./test-projects/ofimatica-y-redes)   
     * [Modalidad de Sistemas y redes](./test-projects/sistemas-y-redes)
 * Normas para la aceptación de alumnos y tutores
-* Normas para la [sede](.docs/sede.md) de la prueba
+* Normas para la [sede](./docs/sede.md) de la prueba
 * Normas durante la competición para alumnos, tutores, jueces y sede.
 
 #Más información
