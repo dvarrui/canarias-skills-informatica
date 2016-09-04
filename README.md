@@ -17,13 +17,13 @@ Documentos CanariasSkill de Informática 2017
 
 #Documentación
 
-* Normas para los [test projects](./docs/test-projects.md)
+* [Test Projects](./docs/test-projects.md): definición y requisitos
 * Ejemplos de `test projects`
     * [Modalidad de Desarrollo Web](./test-projects/desarrollo-web)   
     * [Modalidad de Ofimática y Redes](./test-projects/ofimatica-y-redes)   
     * [Modalidad de Sistemas y redes](./test-projects/sistemas-y-redes)
-* Normas para la aceptación de alumnos y tutores
-* Normas para la [sede](./docs/sede.md) de la prueba
+* Alumnos candidatos y sus tutores
+* Centro [sede](./docs/sede.md) de la prueba
 * Normas durante la competición para alumnos, tutores, jueces y sede.
 
 #Más información
