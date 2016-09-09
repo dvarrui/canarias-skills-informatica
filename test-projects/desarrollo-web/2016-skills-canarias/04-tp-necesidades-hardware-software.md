@@ -18,10 +18,13 @@ B. Características hardware de los equipos (si fuera posible)
 
 C. Características software recomendadas:
 
-* El alumnado debe llevar sus propios equipos (portátiles) o máquinas virtuales con el software necesario para usar en la prueba, con lo que sería suficiente, tener instalado en los equipos, el VMWare Player y VirtualBox.
-* Aún así, si lo consideran oportuno, los equipos podrían tener el siguiente software ya instalado, aunque no creo que sea del todo necesario:
+* El alumnado debe llevar sus propios equipos (portátiles) o máquinas virtuales
+con el software necesario para usar en la prueba, con lo que sería suficiente,
+tener instalado en los equipos, el VMWare Player y VirtualBox.
+* Aún así, si lo consideran oportuno, los equipos podrían tener el siguiente
+software ya instalado, aunque no creo que sea del todo necesario:
   * algunos navegadores como: Chrome, IE, Edge, Safari o Firefox
-  * libreoffice
-  * acorbat reader
-  * compresores (winrar)
-  * editores libres: sublime, notepad++, brackets,...
+  * Libreoffice
+  * Acrobat Reader
+  * Compresores (winrar)
+  * Editores libres: sublime, notepad++, brackets,...
