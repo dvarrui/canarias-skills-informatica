@@ -31,6 +31,7 @@ participar en la elaboración y mejora de dichos documentos.
 más compleja diseñada específicamente para los Skill, pero lo importante es que
 el contenido de cada `test project` debe estar basado en el currículo de su
 modalidad correspondiente.
+* Las tareas/objetivos del test project deben estar organizadas por días (1 o varios)
 * El tiempo requerido para finalizar el `test project`, es indiferente.
     * Cuando el tiempo es muy corto, se unirán varias pruebas para formar una mayor.
     * Y si el tiempo es muy largo, ganará el alumno que haya avanzado más. El
@@ -49,6 +50,7 @@ de un centro. Debe ser material que cualquier centro pueda disponer de él. Ejem
     las máquinas virtuales deben eliminarse.
 
 ##Provisión de recursos y limitaciones
+
 * Los jueces deben asegurarse de que los requisitos software/material estén
 en el centro sede el día de las pruebas.
 * El centro sede debe encargarse de que haya 1 PC por alumno con el sistema de
@@ -57,13 +59,20 @@ virtualización VirtualBox. Todos los PC's deben tener las mismas característic
 * Tampoco que estos traigan material del exterior. Todos el material necesario
 deberá ser aportado por los jueces.
 
-##Calificación
+##Items evaluables
 
-* Cada `test project` debe reflejar claramente cómo se realizará la calificación,
-y la valoración de cada uno de los apartados.
-* Es recomendable que los apartados a corregir se puedan evaluar de la forma más
+> Es recomendable que los apartados a corregir se puedan evaluar de la forma más
 objetiva posible para facilitar la labor de los jueces durante la prueba.
-* La escala recomendada para puntuar los apartado es la siguiente:
+> Por este motivo, debemos definir una lista de elementos/items a puntuar.
+
+* Cada `test project` debe contener una lista de items evaluables. Estos items,
+son los objetivos que debe tener el alumno en la prueba, y son los aspectos que
+se van a puntuar.
+* Cada item puede tener un peso que defina su grado de importancia.
+* Cada item tendrá un grado de cumplimiento según la escala siguiente.
+* La escala recomendada para puntuar cada item es la siguiente:
     * 0.0 => Incorrecto
-    * 0.5 => Parcialmente correct
+    * 0.5 => Parcialmente correcto
     * 1.0 => Correcto
+
+> En una competición es conveniente mantener los criterios lo más objetivo posible.
