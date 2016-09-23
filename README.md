@@ -23,8 +23,15 @@ Documentos CanariasSkill de Informática 2017
     * [Modalidad de Ofimática y Redes](./test-projects/ofimatica-y-redes)   
     * [Modalidad de Sistemas y redes](./test-projects/sistemas-y-redes)
 * Alumnos candidatos y sus tutores
-* Centro [sede](./docs/sede.md) de la prueba
-* Normas durante la competición para alumnos, tutores, jueces y sede.
+* Centro [sede](./docs/sede.md) de la prueba.
+* Cometido de los [jueces](./docs/jueces.md).
+* Normas durante la competición para alumnos, tutores.
+
+> *Familia Profesional*
+>
+> * Estos documentos deben ser aprobados por la Coordinación de la Familia Profesional.
+> * Se podrán solicitar cambios/modificaciones por cualquier miembro de la Familia
+Profesional, a los Coordinadores en los plazos que se establezcan para tal efecto.
 
 #Más información
 

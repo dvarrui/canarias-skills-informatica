@@ -7,4 +7,4 @@
     * Tiempo estimado : X horas
 1. Software/Materiales: Indicar las necesidades de software/material para la prueba.
 1. Descripción de la prueba
-1. Información sobre las puntuaciones de cada apartado.
+1. Listado de items evaluables con su peso (Los pesos deben sumar 100%)
