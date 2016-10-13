@@ -22,10 +22,11 @@ Documentos CanariasSkill de Informática 2017
     * [Modalidad de Desarrollo Web](./test-projects/desarrollo-web)   
     * [Modalidad de Ofimática y Redes](./test-projects/ofimatica-y-redes)   
     * [Modalidad de Sistemas y redes](./test-projects/sistemas-y-redes)
-* Alumnos candidatos y sus tutores
+* [Alumnos candidatos](./docs/alumnos.md).
+* Profesor Tutor.
 * Centro [sede](./docs/sede.md) de la prueba.
 * Cometido de los [jueces](./docs/jueces.md).
-* Normas durante la competición para alumnos, tutores.
+* Normas durante la competición.
 
 > *Familia Profesional*
 >
