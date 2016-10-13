@@ -23,7 +23,7 @@ Documentos CanariasSkill de Informática 2017
     * [Modalidad de Ofimática y Redes](./test-projects/ofimatica-y-redes)   
     * [Modalidad de Sistemas y redes](./test-projects/sistemas-y-redes)
 * [Alumnos candidatos](./docs/alumnos.md).
-* Profesor Tutor.
+* [Profesor Tutor](./docs/tutores.md).
 * Centro [sede](./docs/sede.md) de la prueba.
 * Cometido de los [jueces](./docs/jueces.md).
 * Normas durante la competición.
