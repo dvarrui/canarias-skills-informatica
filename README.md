@@ -1,4 +1,4 @@
-# canariaskill-informatica
+# canarias-skills-informatica
 
 Documentos CanariasSkill de Informática 2017
 
