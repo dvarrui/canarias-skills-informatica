@@ -2,7 +2,7 @@
 
 Documentos CanariasSkill de Informática 2017
 
-#Calendario CanariasSkill-Informática
+# Calendario CanariasSkill-Informática
 
 | Fecha           | Acción | Responsable/s |
 | :-------------- | :----- | :------------ |
@@ -15,7 +15,7 @@ Documentos CanariasSkill de Informática 2017
 | Enero 2017      | Se establece fecha y sede para las pruebas | Coordinación de la familia |
 | Febrero 2017    | Se realizan las pruebas | Todos los participantes |
 
-#Documentación
+# Documentación
 
 * [Test Projects](./docs/test-projects.md): definición, requisitos y limitaciones
 * Ejemplos de `test projects`
@@ -34,6 +34,6 @@ Documentos CanariasSkill de Informática 2017
 > * Se podrán solicitar cambios/modificaciones por cualquier miembro de la Familia
 Profesional, a los Coordinadores en los plazos que se establezcan para tal efecto.
 
-#Más información
+# Más información
 
 * [CanariasSkills - Primer Hangout - 22/06/2016](https://www.youtube.com/watch?v=-zARtTfaWbY)
